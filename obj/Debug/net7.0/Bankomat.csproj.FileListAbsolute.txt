@@ -1,0 +1,14 @@
+D:\IT\files\2-course\C#\bankomat\Bankomat\bin\Debug\net7.0\Bankomat.exe
+D:\IT\files\2-course\C#\bankomat\Bankomat\bin\Debug\net7.0\Bankomat.deps.json
+D:\IT\files\2-course\C#\bankomat\Bankomat\bin\Debug\net7.0\Bankomat.runtimeconfig.json
+D:\IT\files\2-course\C#\bankomat\Bankomat\bin\Debug\net7.0\Bankomat.dll
+D:\IT\files\2-course\C#\bankomat\Bankomat\bin\Debug\net7.0\Bankomat.pdb
+D:\IT\files\2-course\C#\bankomat\Bankomat\obj\Debug\net7.0\Bankomat.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\files\2-course\C#\bankomat\Bankomat\obj\Debug\net7.0\Bankomat.AssemblyInfoInputs.cache
+D:\IT\files\2-course\C#\bankomat\Bankomat\obj\Debug\net7.0\Bankomat.AssemblyInfo.cs
+D:\IT\files\2-course\C#\bankomat\Bankomat\obj\Debug\net7.0\Bankomat.csproj.CoreCompileInputs.cache
+D:\IT\files\2-course\C#\bankomat\Bankomat\obj\Debug\net7.0\Bankomat.dll
+D:\IT\files\2-course\C#\bankomat\Bankomat\obj\Debug\net7.0\refint\Bankomat.dll
+D:\IT\files\2-course\C#\bankomat\Bankomat\obj\Debug\net7.0\Bankomat.pdb
+D:\IT\files\2-course\C#\bankomat\Bankomat\obj\Debug\net7.0\Bankomat.genruntimeconfig.cache
+D:\IT\files\2-course\C#\bankomat\Bankomat\obj\Debug\net7.0\ref\Bankomat.dll
